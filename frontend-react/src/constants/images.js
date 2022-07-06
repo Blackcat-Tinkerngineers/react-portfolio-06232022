@@ -17,6 +17,7 @@ import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
+import icon from '../assets/icon.png';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -35,6 +36,7 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 export default {
   email,
   mobile,
@@ -62,6 +64,7 @@ export default {
   profile,
   circle,
   logo,
+  icon,
   adidas,
   amazon,
   asus,
